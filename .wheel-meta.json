@@ -1,0 +1,22 @@
+{
+  "wheel_id": 549,
+  "structure": "umbrella",
+  "slug": "newcastlehomeloanbroker-152",
+  "project": "mortgage-brokers-newcastle-1104a8fe1ff0651df9769ebcedb39a970627",
+  "parent_t1_ref": "newcastlehomeloanbroker-011",
+  "node_role": "buffer",
+  "money_target": "newcastlehomeloanbroker.com.au",
+  "primary_kw": "mortgage brokers newcastle",
+  "intended_url": "http://mortgage-brokers-newcastle-1104a8fe1ff0651df9769ebcedb39a970627.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "913f6d0c659dd4a8",
+  "links": [
+    {
+      "target_url": "https://mortgage-brokers-newcastle-newcastlehomeloanbroker-011-bc5ebd.gitlab.io/",
+      "anchor": "Mortgage Brokers Newcastle: A Practical Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
